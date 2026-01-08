@@ -86,10 +86,8 @@ npm run android:prod
 ---
 
 ## 📸 Screenshots
-![Login Screen](./screenshots/login.png)
-![Home Screen](./screenshots/homescreen.png)
-![Connecting Call](./screenshots/connecting.png)
-![In Call](./screenshots/incall.png)
+
+<img src="./screenshots/login.png" width="200" height="400"> <img src="./screenshots/homescreen.png" width="200" height="400"> <img src="./screenshots/connecting.png" width="200" height="400"> <img src="./screenshots/incall.png" width="200" height="400">
 ---
 
 ## 🤝 Contributing
