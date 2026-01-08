@@ -84,8 +84,10 @@ npm run android:prod
 ---
 
 ## 📸 Screenshots
-*(Add your screenshots here!)*
-
+![Login Screen](./screenshots/login.png)
+![Home Screen](./screenshots/homescreen.png)
+![Connecting Call](./screenshots/connecting.png)
+![In Call](./screenshots/incall.png)
 ---
 
 ## 🤝 Contributing
