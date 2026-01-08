@@ -36,6 +36,8 @@ Welcome to the **Video Call App**! 🚀 This is a high-performance 1v1 video cal
 
 Follow these steps to set up the project locally.
 
+> **Note:** Tested on Android Emulator - Android 16 API 36.1
+
 ### 1️⃣ Prerequisites
 - Node.js & npm/yarn
 - Android Studio (for Android Emulator)
@@ -97,5 +99,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📄 License
 This project is licensed under the MIT License.
-
-Happy Coding! 💻✨
